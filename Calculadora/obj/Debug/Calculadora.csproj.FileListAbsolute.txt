@@ -1,0 +1,8 @@
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Programación Repositorios\C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
